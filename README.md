@@ -25,5 +25,3 @@ The questions were analyzed only for the period from 2010 to 2015:
 ## References
 
 UDACITY - Data Analyst Nanodegree Program: https://www.udacity.com/course/data-analyst-nanodegree--nd002
-
-UDACITY - Exploring Weather Trends: Project Instructions. 
